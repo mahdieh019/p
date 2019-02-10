@@ -19,7 +19,7 @@
 p:hover{
     opacity: 1;
     border: 5px solid red;
-    border-redius: 5px 10px;
+    border-radius: 5px 10px;
 
 }
 /* Header  */
