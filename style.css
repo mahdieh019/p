@@ -54,6 +54,8 @@ div{
 div:hover{
     background-color: aquamarine;
     border: 4px solid green;
+    border-radius: 10px  70px;
+
 }
 .img1{
     width: 400;
