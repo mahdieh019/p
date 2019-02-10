@@ -1,0 +1,15 @@
+.h1{
+    color: red;
+}
+
+.p{
+    color: chocolate;
+    font-size: 15px;
+    background-color: darkcyan;
+    font-weight: bold;
+    text-align: left;
+    width: 260;
+    height: 300;
+    font-style: italic;
+    
+}
