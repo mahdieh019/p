@@ -74,15 +74,16 @@ img1:hover{
     background-color: darkcyan;
     font-weight: bold;
     text-align: left;
-    width: 1000px;
+    width: 800px;
     height: 250px;
     font-style: italic;
-    padding-left: 10;
+    /* padding-left: 10; */
     border: 4px solid blueviolet;
 }
 .img2{
     width: 400px;
     height: 200px;
+    float: left;
     border: 5px solid lightslategrey;
 
 }
