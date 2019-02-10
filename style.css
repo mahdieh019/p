@@ -53,5 +53,5 @@ div{
 }
 div:hover{
     background-color: aquamarine;
-    border: 0px;
+    border: 4px solid green;
 }
