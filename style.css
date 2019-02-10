@@ -103,3 +103,9 @@ img2:hover{
     padding-left: 10; 
     border: 4px solid blueviolet;
 }
+a{
+    color: darkgreen;
+}
+a:hover{
+    color: brown;
+}
