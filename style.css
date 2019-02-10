@@ -11,5 +11,14 @@
     width: 260;
     height: 300;
     font-style: italic;
-    
+
+
+}
+
+#First,#Second{
+    color: brown;
+    font-size: 15px;
+    background-color: aqua;
+    text-align: center;
+    font-style: italic;
 }
