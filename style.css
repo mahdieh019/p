@@ -40,6 +40,11 @@ p:hover{
     font-size: 15px;
     text-align: center;
 }
+#T{
+background-color: tomato;
+font-size: 30px;
+font-style: italic;
+}
 div{
     width: 100%;
     height: 400px;
