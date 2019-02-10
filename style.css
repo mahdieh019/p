@@ -58,8 +58,8 @@ div:hover{
 
 }
 .img1{
-    width: 400;
-    height: 200;
+    width: 400px;
+    height: 200px;
     float: right;
     border: 4px solid lightgreen;
 
@@ -79,4 +79,13 @@ img1:hover{
     font-style: italic;
     padding-left: 10;
     border: 4px solid blueviolet;
+}
+.img2{
+    width: 400px;
+    height: 200px;
+    border: 5px solid lightslategrey;
+
+}
+img2:hover{
+    border-radius: 10px  70px;
 }
