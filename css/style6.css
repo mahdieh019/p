@@ -30,3 +30,11 @@ div.gallery p{
     padding: 15px;
     border-radius: 200px;
 }
+div.gallery p:hover{
+    color: #000;
+    font-weight: inherit;
+    font-size: 20px;
+    font-stretch: condensed;
+    transform: rotate3d();
+
+}
