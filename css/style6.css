@@ -1,13 +1,14 @@
-/* div.gallery{
-    margin-top: 20p;
+div.gallery{
+    /* margin-top: 20p;
     width: 150px;
     height: 150px;
     border: 1px solid gray;
+    margin: 10px; */
     float: left;
-    margin: 10px;
+   
 }
 
-div.gallery:hover{
+/* div.gallery:hover{
     border-radius: 10px;
     } */
 div.gallery img{
