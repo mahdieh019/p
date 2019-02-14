@@ -16,7 +16,7 @@ div.gallery img{
     height: 150px;
     opacity: 0.5;
     /* margin: auto; */
-    transition: width 2s, height 2s, background 3s, opacity 2s, border-radius 2s;
+    transition: width 2s, height 2s, background 3s, opacity 2s, border-radius 2s , margin 3s;
 }
 div.gallery img:hover{
     width: 300px;
@@ -24,6 +24,7 @@ div.gallery img:hover{
     border-radius: 300px;
     opacity: 1.0;
     border: 3px solid darkred;
+    margin: 50px; 
 }
 
 div.gallery p{
