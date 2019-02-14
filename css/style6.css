@@ -5,7 +5,7 @@ div.gallery{
     border: 1px solid gray;
     margin: 10px; 
     float: left;
-    transition: width 2s, height 2s, border-radius 2s ,background-color 2s,border 2s;
+    transition: width 2s, height 2s, border-radius 2s ,background-color 2s,border 2s , float 2s;
 }
 
 div.gallery:hover{
@@ -15,6 +15,7 @@ div.gallery:hover{
     border-radius: 300px;
     background-color: greenyellow;
     border: 2px dotted red;
+    float: center; 
     } 
 
 div.gallery img{
