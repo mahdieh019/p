@@ -12,7 +12,7 @@ div.gallery:hover{
     width: 350px;
     height: 350px;
     margin: 50px; 
-    border-radius: 300px;
+    border-radius: 50px;
     background-color: greenyellow;
     border: 2px dotted red;
     float: center; 
