@@ -1,18 +1,20 @@
 div.gallery{
-    /* margin-top: 20p;
+     margin-top: 20p;
     width: 150px;
     height: 150px;
-    border: 1px solid gray;*/
+    border: 1px solid gray;
     margin: 10px; 
     float: left;
-   
+    transition: width 2s, height 2s, border-radius 32;
 }
 
-/* div.gallery:hover{
-    width: 150px;
-    height: 150px;
-    border-radius: 10px;
-    } */
+div.gallery:hover{
+    width: 350px;
+    height: 350px;
+    margin: 50px; 
+    border-radius: 300px;
+    } 
+
 div.gallery img{
     width: 150px;
     height: 150px;
