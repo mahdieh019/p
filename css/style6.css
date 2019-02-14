@@ -37,5 +37,5 @@ div.gallery p:hover{
     font-weight: inherit;
     font-size: 20px;
     font-stretch: condensed;
-    transform: rotateY(180deg);
+    transform: rotateY(360deg);
 }
