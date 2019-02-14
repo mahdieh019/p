@@ -3,8 +3,7 @@ div.gallery{
     width: 150px;
     height: 150px;
     border: 1px solid gray;
-    background-color: aqua;
-    margin: 50px; 
+    margin: 10px; 
     float: left;
     transition: width 2s, height 2s, border-radius 2s ,background-color 2s,border 2s;
 }
