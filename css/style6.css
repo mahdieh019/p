@@ -29,4 +29,12 @@ div.gallery p{
     text-align: center;  
     padding: 15px;
     border-radius: 200px;
+    transition: transform 3s, font-weight 2s;
+}
+div.gallery p:hover{
+    color: #000;
+    font-weight: inherit;
+    font-size: 20px;
+    font-stretch: condensed;
+    transform: rotate3d();
 }
